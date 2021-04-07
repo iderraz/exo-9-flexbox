@@ -1,0 +1,36 @@
+
+
+header{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.orange{
+    background-color: orange;
+    height: 500px;
+    width: 25%;
+    border-radius: 10px;
+    justify-content:center;
+    align-items: center;
+}
+nav{
+    background-color:blueviolet ;
+    height: 500px;
+    width: 50%;
+    margin: 5px;
+    border-radius: 10px;
+}
+footer{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    border-radius: 10px;
+}
+}
